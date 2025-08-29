@@ -3,11 +3,11 @@
 This is my personal AI coding agent framework, currently designed for Claude Code.
 (The axi name may change.)
 
-## Status: Ready Now
+## Features
 
 - **PRP Execution:** take your PRP (product requirements prompt) which can be a simple sentence, and turn it into a complete project plan that is ready to build.
 
-## Status: Coming soon, perhaps
+## Roadmap
 
 - VS Code devcontainer setup
   - this will allow you to run Claude Code in dangerously skip permissions mode but retain a measure of safety
